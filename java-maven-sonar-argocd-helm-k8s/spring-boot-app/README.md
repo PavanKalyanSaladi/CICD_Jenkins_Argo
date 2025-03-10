@@ -5,6 +5,14 @@ at the root directory of the repository.
 
 This is a MVC architecture based application where controller returns a page with title and message attributes to the view.
 
+## Pre-Requisites:
+
+```
+sudo apt update && sudo apt upgrade -y
+sudo apt install openjdk-17-jre-headless -y
+sudo apt install maven -y
+```
+
 ## Execute the application locally and access it using your browser
 
 Checkout the repo and move to the directory
