@@ -5,6 +5,8 @@
 
 Here are the step-by-step details to set up an end-to-end Jenkins pipeline for a Java application using SonarQube, Argo CD, Helm, and Kubernetes:
 
+Note:- I have used [Excloud](https://console.excloud.in/console/instance) for provisioning two VM's (2CPU, 8GB RAM, 100GB Storage)
+
 Prerequisites:
 
    -  Java application code hosted on a Git repository
